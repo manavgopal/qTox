@@ -30,7 +30,7 @@ Week of Testing: Your mana regenerates!" />
 
 <p align="center"><b>
 qTox is a chat, voice, video, and file transfer instant messaging client using
-the encrypted peer-to-peer Tox protocol.
+the encrypted peer-to-peer Tox protocol.my name is manav gopal
 </b></p>
 
  **[User Manual] |**
